@@ -21,7 +21,7 @@ public class Sum {
 
         sum = num1 + num2;
         return sum;
-    };
+    }
     /*
     static void sum() {
         Scanner input = new Scanner(System.in);
